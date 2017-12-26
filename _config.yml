@@ -12,11 +12,11 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-url: https://tianqi.name #the base hostname & protocol for your site e.g. https://www.someone.com
+url: https:// #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Qi's Blog
+title: Mr. L's Blog
 description: > #this means to ignore newlines until "nav_lists:"
-    Tian Qi's Blog | 田琦的博客
+    Xue Hongyan's Blog | 薛泓彦的博客
 
 nav_lists:
   - titles:
@@ -33,7 +33,7 @@ paths:
   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-repository: kitian616/kitian616.github.io
+repository: xuehongyanL/xuehongyanl.github.io
 repository_tree: master
 
 ## Language & timezone ##
@@ -49,7 +49,7 @@ author:
   github:  xuehongyanL
   googleplus:
   weibo: 1738837907
-  douban: kitian616
+  douban:
   # linkedin:  #your Linkedin username
 
 ## Comment system (Disqus) ##

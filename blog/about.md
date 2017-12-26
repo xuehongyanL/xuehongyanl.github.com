@@ -1,1 +1,1 @@
-﻿---layout: pagetitle: Aboutkey: page-about---Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:My Name is Xue Hongyan in UCAS in Beijing.<!--more-->## About Me | 关于我你们好，我叫薛泓彦，这是我的博客。
+﻿﻿---layout: pagetitle: Aboutkey: page-about---Welcome to my blog!My Name is Xue Hongyan in UCAS in Beijing.<!--more-->## About Me | 关于我你们好，我叫薛泓彦，这是我的博客。哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
