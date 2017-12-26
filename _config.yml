@@ -47,14 +47,14 @@ author:
   # facebook:  #your Facebook username
   twitter: xuehongyan
   github:  xuehongyanL
-  googleplus: 101827554735084402671
-  weibo: 234695683
+  googleplus:
+  weibo: 1738837907
   douban: kitian616
   # linkedin:  #your Linkedin username
 
 ## Comment system (Disqus) ##
 disqus:
-  shortname: kitian616-github-io #the Disqus shortname for the site
+  shortname: xuehongyanl-github-io #the Disqus shortname for the site
 
 ## Google Analytics ##
 ga_tracking_id: UA-71907556-1 #Google analytics id for the site
