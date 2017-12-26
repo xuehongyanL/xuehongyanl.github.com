@@ -59,12 +59,6 @@ disqus:
 ## Google Analytics ##
 ga_tracking_id: UA-71907556-1 #Google analytics id for the site
 
-## Reading quantity (LeanCloud) ##
-leancloud:
-  app_id: uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz
-  app_key: Mzf5m9skSwYVWVXhGiYMNyXs
-  app_class: ThomasBlog
-
 # mathjax: true
 
 ## Paginate ##
