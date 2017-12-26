@@ -1,10 +1,6 @@
 ---
 layout: post
-title: 如何通过 SSH 来连接 VirtualBox 虚拟机
-key: 10002
 tags: Linux VirtualBox SSH
-category: blog
-date: 2015-10-24 23:00:00 +08:00
 ---
 
 说起来使用 Linux 也快有 4 年了。从最开始的 Ubuntu 到 CentOS 再到现在的 Arch Linux。
