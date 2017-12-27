@@ -10,10 +10,10 @@ NAV:
     zh-Hans: "分类"
     zh-Hant: "分類"
   RSS:
-    en:      ""
-    zh:      ""
-    zh-Hans: ""
-    zh-Hant: ""
+    en:      "RSS"
+    zh:      "RSS"
+    zh-Hans: "RSS"
+    zh-Hant: "RSS"
 
 READMORE:
   en:      "Click to read more ..."
