@@ -74,4 +74,3 @@ ELO rating system, 中文好像译作等级分，反正我就一直用ELO好了�
 比心.
 
 ![比心](/images/bixin.jpg)
-
