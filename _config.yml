@@ -16,7 +16,7 @@ site:
   name: Xue Hongyan
   description:  Xue Hongan's blog
   url: https://xuehongyanl.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: https://xuehongyanl.github.io
+baseurl: /
 title: Mr. L's Blog
 description: > #this means to ignore newlines until "nav_lists:"
     Xue Hongyan's Blog | 薛泓彦的博客
