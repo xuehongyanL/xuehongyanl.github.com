@@ -81,11 +81,8 @@ ELO rating system, 中文好像译作等级分，反正我就一直用ELO好了�
 
 假如这篇有人看的话，谢谢阅读哦。
 
+比心
+
 ![比心](/images/bixin.jpg)
 
-'
-
-
-
-
-
+<这回真end了>
