@@ -65,13 +65,13 @@ ELO rating system, 中文好像译作等级分，反正我就一直用ELO好了�
 
 页面里有具体描述，在此就不多说了。
 
-。
+。  
 
-<end>
+<end>  
 
-***
+***  
 
-。
+。  
 
 这个博客也是建在Github上的，看起来维护也挺方便，
 
@@ -81,8 +81,8 @@ ELO rating system, 中文好像译作等级分，反正我就一直用ELO好了�
 
 假如这篇有人看的话，谢谢阅读哦。
 
-比心.
+比心.  
 
-![比心](/images/bixin.jpg)
+![比心](/images/bixin.jpg)  
 
-<这回真end了>
+<这回真end了>  
