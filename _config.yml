@@ -12,7 +12,7 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-url: https:// #the base hostname & protocol for your site e.g. https://www.someone.com
+url: https://xuehongyanl.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: Mr. L's Blog
 description: > #this means to ignore newlines until "nav_lists:"
