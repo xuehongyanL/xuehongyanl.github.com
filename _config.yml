@@ -13,12 +13,10 @@
 
 ## Base settings ##
 name: Xue Hongyan
-description:  Xue Hongan's blog
 url: https://xuehongyanl.github.io
 baseurl: /
 title: Mr. L's Blog
-description: > #this means to ignore newlines until "nav_lists:"
-    Xue Hongyan's Blog | 薛泓彦的博客
+description: Xue Hongyan's Blog | 薛泓彦的博客
 
 nav_lists:
   - titles:
