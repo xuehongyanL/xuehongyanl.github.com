@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: 项目介绍
+tags: ELOinFootball
 ---
 
 [![五大联赛](/images/00001.jpg)](https://github.com/xuehongyanL/ELOinFootball)
