@@ -3,7 +3,7 @@ layout: post
 tags: ELOinFootball
 ---
 
-[![五大联赛](/images/00001.jpg)](https://github.com/xuehongyanL/ELOinFootball)
+![五大联赛](/images/00001.jpg)
 
 好了大一上学期快结束了，趁着还没到考试月赶紧做点项目
 
