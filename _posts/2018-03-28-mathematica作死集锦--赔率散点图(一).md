@@ -16,17 +16,29 @@ tags: Mathematica作死集锦
 原始数据是这样的：
 
 > 3,3.4,2.3,1
+> 
 > 2.5,3.25,2.8,-1
+> 
 > 2.1,3.25,3.6,-1
+> 
 > 2.7,3.4,2.5,0
+> 
 > 2.5,3.25,2.8,0
+> 
 > 1.73,3.8,4.5,0
+> 
 > 1.29,5.5,9.5,1
+> 
 > 4.33,3.6,1.8,-1
+> 
 > 2,3.4,3.75,-1
+> 
 > 1.62,3.8,5.5,1
+> 
 > 1.5,4,7,1
+> 
 > 4.75,3.6,1.73,-1
+> 
 > ......
 
 为了方便，我就用1,0,-1表示主胜，平局和客胜了，作为最后一项。
@@ -36,25 +48,39 @@ tags: Mathematica作死集锦
 [python]
 
 >  import sqlite3
+>  
 >  import csv
 >  
 >  f=open('bet365.csv')
+>  
 >  reader = csv.reader(f)
+>  
 >  odds = list(reader)
+>  
 >  f.close()
 >  
 >  conn = sqlite3.connect('odds.db')
+>  
 >  c = conn.cursor()
+>  
 >  c.execute('''CREATE TABLE bet365(
+>  
 >      ZHU REAL,
+>      
 >      PING REAL,
+>      
 >      KE REAL,
+>      
 >      RES INT
+>      
 > ); ''' )
 > 
 > for odd in odds:
+> 
 >     c.execute('''INSERT INTO jingcai VALUES({},{},{},{})'''.format(*odd))
+>     
 > conn.commit()
+> 
 > conn.close()
 
 接下来用MMA就很简单了。
@@ -64,6 +90,7 @@ tags: Mathematica作死集锦
 [wolfram]
 
 > Needs["DatabaseLink`"];
+> 
 > conn = OpenSQLConnection[JDBC["SQLite", StringJoin[NotebookDirectory[], "odds.db"]]];
 
 先不绘制颜色，所以只取每个列表的前三项
@@ -131,6 +158,7 @@ tags: Mathematica作死集锦
 [wolfram]
 
 cancha = (#[[2]] - 1 - 2.7/(#[[1]] - 1)) & /@ data2d;
+
 ListPlot[cancha, PlotRange -> {-1.5, 1.5}, ImageSize -> Full]
 
 ![](/images/00045.jpg)
